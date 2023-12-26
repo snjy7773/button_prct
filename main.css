@@ -11,10 +11,17 @@ body {
 }
 
 #h1 {
-  background-color: aqua;
-  text-align: justify;
+  background-color: rgb(188, 202, 202);
+  /* text-align: justify; */
   text-align: center;
-  width: 40%;
+  width: 100%;
+}
+
+#h2{
+  /* background-color: rgb(107, 78, 40); */
+  /* text-align: justify; */
+  text-align: center;
+  width: 100%;
 }
 
 #imgdv {
@@ -41,6 +48,16 @@ body {
   width: 50vw;
   height: 40vh;
 }
+#bt1{
+  margin-top: 1vh;
+  margin-left: 45vw;
+  text-align: center;
+  color: aliceblue;
+  background-color: rgb(64, 33, 175);
+  width: 10vw;
+  height: 5vh;
+  border-radius: 80%;
+}
 
 #bt2 {
   margin-top: 1vh;
@@ -48,6 +65,17 @@ body {
   text-align: center;
   color: aliceblue;
   background-color: rgb(64, 33, 175);
+  width: 10vw;
+  height: 5vh;
+  border-radius: 100%;
+}
+
+#bt3{
+  margin-top: 1vh;
+  margin-left: 45vw;
+  text-align: center;
+  color: rgb(2, 38, 70);
+  background-color: rgb(163, 183, 52);
   width: 10vw;
   height: 5vh;
   border-radius: 100%;
