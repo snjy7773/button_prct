@@ -11,8 +11,33 @@ body {
 }
 
 #h1 {
-  /* background-color: aqua; */
-  /* text-align: justify; */
+  background-color: aqua;
+  text-align: justify;
   text-align: center;
   width: 40%;
+}
+
+#imgdv {
+  margin: 8vh;
+  margin-bottom: 0;
+  display: flex;
+}
+
+#img1 {
+  width: 150px;
+  height: 150px;
+}
+#img2 {
+  width: 150px;
+  height: 150px;
+}
+
+#bt2 {
+    margin-top: 0;
+    margin-left: 45vw;
+  text-align: center;
+  color: yellowgreen;
+  background-color: rgb(64, 33, 175);
+  width: 15vw;
+  height: 3vh;
 }
